@@ -1,2 +1,2 @@
-# godofweb-tea-rest
+# tea-rest
 godofweb tea rest
